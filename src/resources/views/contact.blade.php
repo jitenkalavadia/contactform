@@ -1,4 +1,4 @@
-<!-- MyVendor\contactform\src\resources\views\contact.blade.php -->
+<!-- jiten\contactform\src\resources\views\contact.blade.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

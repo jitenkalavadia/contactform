@@ -1,9 +1,9 @@
 <?php
-// MyVendor\Contactform\src\Http\Controllers\ContactFormController.php
-namespace MyVendor\Contactform\Http\Controllers;
+// jiten\Contactform\src\Http\Controllers\ContactFormController.php
+namespace jiten\Contactform\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use MyVendor\Contactform\Models\ContactForm;
+use jiten\Contactform\Models\ContactForm;
 
 class ContactFormController extends Controller {
 

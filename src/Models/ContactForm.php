@@ -1,6 +1,6 @@
 <?php
-// MyVendor\Contactform\src\Models\ContactForm.php
-namespace MyVendor\Contactform\Models;
+// jiten\Contactform\src\Models\ContactForm.php
+namespace jiten\Contactform\Models;
 use Illuminate\Database\Eloquent\Model;
 class ContactForm extends Model
 {

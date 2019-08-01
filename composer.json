@@ -1,5 +1,5 @@
 {
-    "name": "MyVendor/contactform",
+    "name": "jiten/contactform",
     "description": "A contact form package for laravel",
     "type": "composer-plugin",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
 	"autoload": {
 		"psr-4": {
-			"MyVendor\\contactform\\": "src/"
+			"jiten\\contactform\\": "src/"
 		}
 	}
 }

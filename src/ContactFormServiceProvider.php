@@ -1,6 +1,6 @@
 <?php
-// MyVendor\contactform\src\ContactFormServiceProvider.php
-namespace MyVendor\contactform;
+// jiten\contactform\src\ContactFormServiceProvider.php
+namespace jiten\contactform;
 
 use Illuminate\Support\ServiceProvider;
 
